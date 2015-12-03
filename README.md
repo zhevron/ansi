@@ -2,7 +2,7 @@ ansi - ANSI escape sequence library
 ===================================
 
 [![wercker status](https://app.wercker.com/status/387e7da9a8e93d6b23892db0ea3ecf51/s/master "wercker status")](https://app.wercker.com/project/bykey/387e7da9a8e93d6b23892db0ea3ecf51)
-[![Coverage Status](https://coveralls.io/repos/zhevron/ansi/badge.svg?branch=master)](https://coveralls.io/r/zhevron/ansi?branch=master)
+[![Coverage Status](https://coveralls.io/repos/zhevron/ansi/badge.svg?branch=master&service=github)](https://coveralls.io/github/zhevron/ansi?branch=master)
 [![GoDoc](https://godoc.org/github.com/zhevron/ansi?status.svg)](https://godoc.org/github.com/zhevron/ansi)
 
 **ansi** is an ANSI escape sequence library for [Google Go](https://golang.org).
